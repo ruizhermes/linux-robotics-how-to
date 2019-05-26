@@ -30,5 +30,12 @@ sudo make install
 ```
 6. Check installation version
 ```
-	cmake --version
+cmake --version
+ ```
+ 
+ ## Installing ROS Kinetic in Ubuntu 16.04
+ 
+ To install ROS follow the instructions at 
+ ```
+ http://wiki.ros.org/kinetic/Installation/Ubuntu
  ```
