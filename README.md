@@ -1,11 +1,14 @@
 # Objective:
 
-This repository has an introduction and basic code for Robotics Operating System (ROS). Fundamentals for ROS can be found in the [wiki](https://github.com/ruizhermes/linux-robotics-how-to/wiki) page
+- This repository has an introduction to ROS and basic code examples in C+++ and Python. 
+
+- Fundamentals for ROS can be found in the [wiki](https://github.com/ruizhermes/linux-robotics-how-to/wiki) page.
 
 
 **Disclaimer**:
 The notes presented in the [wiki](https://github.com/ruizhermes/linux-robotics-how-to/wiki) page are a compilation of different sources such as videos, books, and lectures.
 
+# System Configuration
 
 ### Linux (Ubuntu) System ROS Configuration
 
