@@ -4,6 +4,8 @@
 
 - Fundamentals for ROS can be found in the [wiki](https://github.com/ruizhermes/linux-robotics-how-to/wiki) page.
 
+- Simple examples to get familiar with Coding in C++ are found [here](https://github.com/ruizhermes/linux-robotics-how-to/wiki/010_turtlesim_examples).
+
 
 **Disclaimer**:
 The notes presented in the [wiki](https://github.com/ruizhermes/linux-robotics-how-to/wiki) page are a compilation of different sources such as videos, books, and lectures.
